@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  .hero {
+    background: url('https://via.placeholder.com/1920x600') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+  }
+  .card img {
+    height: 200px;
+    object-fit: cover;
+  }
+  footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
+  footer a {
+    color: #00FF7F;
+    text-decoration: none;
+  }
+  .hero h1, .hero p {
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
